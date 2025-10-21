@@ -1,0 +1,5 @@
+.settings
+src/main/resources/db.properties
+build/classes/com/classmanagement/util/DatabaseConnection.class
+src/main/webapp/WEB-INF/classes/db.properties
+src/main/java/com/classmanagement/util/DatabaseConnection.java
